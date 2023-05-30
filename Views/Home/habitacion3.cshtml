@@ -28,10 +28,12 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+<div class = "pistas-hab3">
+  <button onclick="alert('Pista: Es aleman')"> Pista 1 </button>
+  <button onclick="alert('Pista: Sigue en el Dortmund')"> Pista 2 </button>
+</div>
 <div class = "formulario">
-    <form action="habitacion4.cshtml">
-        <button onclick="alert('Pista: Es aleman')"> Pista 1 </button>
-        <button onclick="alert('Pista: Sigue en el Dortmund')"> Pista 2 </button>.
+    <form action='@Url.Action("Habitacion", new{estadoJuego = 4})'>
         <p>Respuesta:</p><input type="text" required>
         <input type="submit">
     </form>

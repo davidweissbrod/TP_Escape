@@ -13,42 +13,31 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    public IActionResult Index(string mensajePresentacion)
+    public IActionResult Index()
     {
-        ViewBag.mensajePresentacion = mensajePresentacion;
+        ViewBag.mensajePresentacion = "Aqui te presentaremos la carrera de 4 distintos jugadores europeos y tendras que adivinar de quien se trata";
         return View("Index");
     }
 
-    public IActionResult Tutorial(string explicacion)
+    public IActionResult Tutorial()
     {
-        ViewBag.explicacion = explicacion;
-        return View("Tutorial");
+        ViewBag.explicacion = "En esta sala de escape se te mostraran una serie de equipos ordenados segun a un jugador de futbol y deberas adivinar que jugador paso por esos equipos. Todos los nombres de los jugadores deben ser escritos en MAYUSCULA";
+        return View("tutorial");
     }
 
-    public IActionResult Comenzar(int estadoJuego)
+    public IActionResult Comenzar()
     {
-        return View("Habitacion" + estadoJuego);
+        return View("Habitacion" + Escape.GetEstadoJuego());
     }
 
-     public IActionResult Habitacion1(int sala, string clave)
+     public IActionResult Habitacion(int sala, string clave)
     {
-        return View();
+       if(sala == Escape.GetEstadoJuego()){
+        if(Escape.ResolverSala(sala, clave) == false) ViewBag.Error = "Incorrecto";
+        if(Escape.GetEstadoJuego() == 5) return View("gano");
+      }
+      return View("Habitacion", Escape.GetEstadoJuego());
     }
-
-    public IActionResult Habitacion2(int sala, string clave)
-    {
-        return View();
-    }
-
-    public IActionResult Habitacion3(int sala, string clave)
-    {
-        return View();
-    }
-    public IActionResult Habitacion4(int sala, string clave)
-    {
-        return View();
-    }
-
 
     public IActionResult Privacy()
     {

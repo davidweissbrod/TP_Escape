@@ -13,13 +13,13 @@ static class Escape{
         return estadoJuego;
     }
 
-    public static bool ResolverSala(int sala, int incongnita){
+    public static bool ResolverSala(int sala, string incongnita){
         bool devolver = false;
-        if(GetEstadoJuego() <= sala) devolver = false;
-        if(incongnita == sala){
-            estadoJuego++;
+        if(GetEstadoJuego() < sala) devolver = false;
+        if(incongnita == incognitasSalas[sala]){
             devolver = true;
-        }
+            estadoJuego++;
+        } 
         return devolver;
     }
 }

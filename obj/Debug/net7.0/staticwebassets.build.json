@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bK55uXhXYbKs4IgsOLHVTngiWG4efVo8zTx9r6hpw8E=",
+  "Hash": "lsdR9fuQeJhrEFsvszvqzDYuL/wGsTtytxUcLtRs8GM=",
   "Source": "TP_Escape",
   "BasePath": "_content/TP_Escape",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TP_Escape\\wwwroot",
       "Source": "TP_Escape",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TP_Escape.styles.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TP_Escape.styles.css",
       "SourceId": "TP_Escape",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "TP_Escape.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TP_Escape.styles.css"
+      "OriginalItemSpec": "Z:\\programacion\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\bundle\\TP_Escape.styles.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP_Escape.bundle.scp.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP_Escape.bundle.scp.css",
       "SourceId": "TP_Escape",
       "SourceType": "Computed",
-      "ContentRoot": "Z:\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "TP_Escape.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "Z:\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP_Escape.bundle.scp.css"
+      "OriginalItemSpec": "Z:\\programacion\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP_Escape.bundle.scp.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\css\\site.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\favicon.ico",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\favicon.ico",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,78 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\img\\barcelona-madrid-clasico-728.jpg",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\ahlen.png",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/ahlen.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ahlen.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\ajax.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/ajax.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ajax.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\argentinos.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/argentinos.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\argentinos.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\barca.webp",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/barca.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\barca.webp"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\barcelona-madrid-clasico-728.jpg",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "img/barcelona-madrid-clasico-728.jpg",
       "AssetKind": "All",
@@ -102,10 +170,61 @@
       "OriginalItemSpec": "wwwroot\\img\\barcelona-madrid-clasico-728.jpg"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\img\\dejong.jfif",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\boca.webp",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/boca.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\boca.webp"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\colo-colo.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/colo-colo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\colo-colo.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\david.jpeg",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/david.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\david.jpeg"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\dejong.jfif",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "img/dejong.jfif",
       "AssetKind": "All",
@@ -119,10 +238,44 @@
       "OriginalItemSpec": "wwwroot\\img\\dejong.jfif"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\img\\haaland_chilena.jfif",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\dortmund.png",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/dortmund.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\dortmund.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\everton.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/everton.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\everton.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\haaland_chilena.jfif",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "img/haaland_chilena.jfif",
       "AssetKind": "All",
@@ -136,10 +289,44 @@
       "OriginalItemSpec": "wwwroot\\img\\haaland_chilena.jfif"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\img\\kimmich_goretzka.jfif",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\ian.jpeg",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/ian.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ian.jpeg"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\inter.webp",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/inter.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\inter.webp"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\kimmich_goretzka.jfif",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "img/kimmich_goretzka.jfif",
       "AssetKind": "All",
@@ -153,10 +340,129 @@
       "OriginalItemSpec": "wwwroot\\img\\kimmich_goretzka.jfif"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\img\\Thumbs.db",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\marsella.png",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/marsella.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\marsella.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\monch.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/monch.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\monch.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\napoli.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/napoli.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\napoli.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\newells.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/newells.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\newells.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\psg.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/psg.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\psg.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\river.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/river.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\river.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\sevilla.jpg",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/sevilla.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\sevilla.jpg"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\Thumbs.db",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -170,10 +476,61 @@
       "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\udinese.png",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/udinese.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\udinese.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\united.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/united.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\united.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\VAMOS.png",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
+      "BasePath": "_content/TP_Escape",
+      "RelativePath": "img/VAMOS.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\VAMOS.png"
+    },
+    {
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\js\\site.js",
+      "SourceId": "TP_Escape",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -187,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -204,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -221,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -238,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -255,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -272,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -289,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -306,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -323,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -340,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -357,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -374,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -391,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -408,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -425,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -442,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -459,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -476,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -493,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -510,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -527,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -544,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -561,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -578,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -595,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -612,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -629,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -646,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -663,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -680,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -697,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -714,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -731,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -748,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -765,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -782,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -799,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -816,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -833,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -850,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -867,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -884,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -901,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -918,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -935,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -952,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -969,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -986,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1003,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1020,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1037,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1054,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1071,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1088,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1105,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1122,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1139,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\TP_Escape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP_Escape",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\TP_Escape\\wwwroot\\",
+      "ContentRoot": "Z:\\programacion\\TP_Escape\\wwwroot\\",
       "BasePath": "_content/TP_Escape",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

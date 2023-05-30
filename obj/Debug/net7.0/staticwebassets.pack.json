@@ -1,267 +1,351 @@
 {
   "Files": [
     {
-      "Id": "Z:\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP_Escape.bundle.scp.css",
+      "Id": "Z:\\programacion\\TP_Escape\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP_Escape.bundle.scp.css",
       "PackagePath": "staticwebassets\\TP_Escape.bundle.scp.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\css\\site.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\favicon.ico",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\img\\Thumbs.db",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\Thumbs.db",
       "PackagePath": "staticwebassets\\img\\Thumbs.db"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\img\\barcelona-madrid-clasico-728.jpg",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\VAMOS.png",
+      "PackagePath": "staticwebassets\\img\\VAMOS.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\ahlen.png",
+      "PackagePath": "staticwebassets\\img\\ahlen.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\ajax.png",
+      "PackagePath": "staticwebassets\\img\\ajax.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\argentinos.png",
+      "PackagePath": "staticwebassets\\img\\argentinos.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\barca.webp",
+      "PackagePath": "staticwebassets\\img\\barca.webp"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\barcelona-madrid-clasico-728.jpg",
       "PackagePath": "staticwebassets\\img\\barcelona-madrid-clasico-728.jpg"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\img\\dejong.jfif",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\boca.webp",
+      "PackagePath": "staticwebassets\\img\\boca.webp"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\colo-colo.png",
+      "PackagePath": "staticwebassets\\img\\colo-colo.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\david.jpeg",
+      "PackagePath": "staticwebassets\\img\\david.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\dejong.jfif",
       "PackagePath": "staticwebassets\\img\\dejong.jfif"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\img\\haaland_chilena.jfif",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\dortmund.png",
+      "PackagePath": "staticwebassets\\img\\dortmund.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\everton.png",
+      "PackagePath": "staticwebassets\\img\\everton.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\haaland_chilena.jfif",
       "PackagePath": "staticwebassets\\img\\haaland_chilena.jfif"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\img\\kimmich_goretzka.jfif",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\ian.jpeg",
+      "PackagePath": "staticwebassets\\img\\ian.jpeg"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\inter.webp",
+      "PackagePath": "staticwebassets\\img\\inter.webp"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\kimmich_goretzka.jfif",
       "PackagePath": "staticwebassets\\img\\kimmich_goretzka.jfif"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\js\\site.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\marsella.png",
+      "PackagePath": "staticwebassets\\img\\marsella.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\monch.png",
+      "PackagePath": "staticwebassets\\img\\monch.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\napoli.png",
+      "PackagePath": "staticwebassets\\img\\napoli.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\newells.png",
+      "PackagePath": "staticwebassets\\img\\newells.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\psg.png",
+      "PackagePath": "staticwebassets\\img\\psg.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\river.png",
+      "PackagePath": "staticwebassets\\img\\river.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\sevilla.jpg",
+      "PackagePath": "staticwebassets\\img\\sevilla.jpg"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\udinese.png",
+      "PackagePath": "staticwebassets\\img\\udinese.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\img\\united.png",
+      "PackagePath": "staticwebassets\\img\\united.png"
+    },
+    {
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "Z:\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "Z:\\programacion\\TP_Escape\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

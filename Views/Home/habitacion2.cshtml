@@ -7,6 +7,10 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -19,13 +23,13 @@
       <img class="d-block w-100" src="img/barca.webp" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/napoli.png" alt="Fifth slide">
+      <img class="d-block w-100" src="img/napoli.png" alt="Fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/sevilla.jpg" alt="Sixth slide">
+      <img class="d-block w-100" src="img/sevilla.jpg" alt="Fifth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/newells.png" alt="Seventh slide">
+      <img class="d-block w-100" src="img/newells.png" alt="Sixth slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -37,10 +41,12 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+<div class = "pistas-hab2">
+  <button onclick="alert('Pista: Campeon del mundo con Argentina')"> Pista 1 </button>
+  <button onclick="alert('Pista: Como no vas a sacarlo al Diego dale')"> Pista 2 </button>
+</div>
 <div class = "formulario">
-    <form action="habitacion3.cshtml">
-        <button onclick="alert('Pista: Campeon del mundo con Argentina')"> Pista 1 </button>
-        <button onclick="alert('Pista: Como no vas a sacarlo al Diego dale')"> Pista 2 </button>.
+    <form action='@Url.Action("Habitacion", new{estadoJuego = 3})'>
         <p>Respuesta:</p><input type="text" required>
         <input type="submit">
     </form>
