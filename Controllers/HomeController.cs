@@ -27,16 +27,23 @@ public class HomeController : Controller
 
     public IActionResult Comenzar()
     {
-        return View("Habitacion" + Escape.GetEstadoJuego());
+        return View("habitacion1");
     }
 
      public IActionResult Habitacion(int sala, string clave)
     {
        if(sala == Escape.GetEstadoJuego()){
-        if(Escape.ResolverSala(sala, clave) == false) ViewBag.Error = "Incorrecto";
+        if(Escape.ResolverSala(sala, clave) == true) Escape.GetEstadoJuego();
         if(Escape.GetEstadoJuego() == 5) return View("gano");
       }
-      return View("Habitacion", Escape.GetEstadoJuego());
+      return View("habitacion" + Escape.GetEstadoJuego());
+    }
+
+    public IActionResult Creditos()
+    {
+        ViewBag.texto1 = "Desarrollador del proyecto";
+        ViewBag.texto2 = "Ideador y desarrollador del proyecto";
+        return View("creditos");
     }
 
     public IActionResult Privacy()

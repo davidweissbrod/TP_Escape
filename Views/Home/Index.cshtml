@@ -37,7 +37,13 @@
 </div>
 </div>
 <div class = "Links">
-    <h4>Toca<a href="tutorial.cshtml">ACA</a> para ver el tutorial</h4>
-    <h4>Toca<a href="habitacion1.cshtml">ACA</a> para comenzar a jugar</h4>
-    <h4><a href="creditos.cshtml">Creditos</a></h4>
+    <form action='@Url.Action("Comenzar", new{estadoJuego = 1})'>
+        <button>Comenzar</button>
+    </form>
+    <form action='@Url.Action("Tutorial")'>
+        <button>Tutorial</button>
+    </form>
+    <form action='@Url.Action("Creditos")'>
+        <button>Creditos</button>
+    </form>
 </div>
