@@ -11,16 +11,16 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/ajax.png" alt="First slide">
+      <img class="d-block w-100" src="/img/ajax.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/united.png" alt="Second slide">
+      <img class="d-block w-100" src="/img/united.png" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/everton.png" alt="Third slide">
+      <img class="d-block w-100" src="/img/everton.png" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/united.png" alt="Third slide">
+      <img class="d-block w-100" src="/img/united.png" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -37,8 +37,9 @@
   <button onclick="alert('Pista: Usa la 20 en su equipo actual')"> Pista 2 </button>
 </div>
 <div class = "formulario">
-    <form action="gano.cshtml">
+    <form action='@Url.Action("Habitacion", "Home")'>
         <p>Respuesta:</p><input type="text" required>
+        <input type="hidden" name="sala" value="4">
         <input type="submit">
     </form>
 </div>

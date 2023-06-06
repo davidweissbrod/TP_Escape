@@ -4,8 +4,8 @@ static class Escape{
 
     private static void InicializarJuego(){
         incognitasSalas[0] = "ALEXIS SANCHEZ";
-        incognitasSalas[1] = "MARADONA";
-        incognitasSalas[2] = "REUS";
+        incognitasSalas[1] = "DIEGO MARADONA";
+        incognitasSalas[2] = "MARCO REUS";
         incognitasSalas[3] = "VAN DE BEEK";
     }
 
@@ -15,8 +15,8 @@ static class Escape{
 
     public static bool ResolverSala(int sala, string incongnita){
         bool devolver = false;
-        if(GetEstadoJuego() < sala) devolver = false;
-        if(incongnita == incognitasSalas[sala]){
+        if(estadoJuego <= sala) devolver = false;
+        if(incongnita == incognitasSalas[sala - 1]){
             devolver = true;
             estadoJuego++;
         } 

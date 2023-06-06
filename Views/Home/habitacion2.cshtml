@@ -14,22 +14,22 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="img/aregentinos.png" alt="First slide">
+      <img class="d-block w-100" src="/img/aregentinos.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/boca.webp" alt="Second slide">
+      <img class="d-block w-100" src="/img/boca.webp" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/barca.webp" alt="Third slide">
+      <img class="d-block w-100" src="/img/barca.webp" alt="Third slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/napoli.png" alt="Fourth slide">
+      <img class="d-block w-100" src="/img/napoli.png" alt="Fourth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/sevilla.jpg" alt="Fifth slide">
+      <img class="d-block w-100" src="/img/sevilla.jpg" alt="Fifth slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="img/newells.png" alt="Sixth slide">
+      <img class="d-block w-100" src="/img/newells.png" alt="Sixth slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -46,8 +46,9 @@
   <button onclick="alert('Pista: Como no vas a sacarlo al Diego dale')"> Pista 2 </button>
 </div>
 <div class = "formulario">
-    <form action='@Url.Action("Habitacion", new{estadoJuego = 3})'>
+    <form action='@Url.Action("Habitacion", "Home")'>
         <p>Respuesta:</p><input type="text" required>
+        <input type="hidden" name = "sala" value = "2">
         <input type="submit">
     </form>
 </div>

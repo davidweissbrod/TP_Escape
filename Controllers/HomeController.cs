@@ -33,7 +33,7 @@ public class HomeController : Controller
      public IActionResult Habitacion(int sala, string clave)
     {
        if(sala == Escape.GetEstadoJuego()){
-        if(Escape.ResolverSala(sala, clave) == true) Escape.GetEstadoJuego();
+        if(Escape.ResolverSala(sala, clave)) Escape.GetEstadoJuego();
         if(Escape.GetEstadoJuego() == 5) return View("gano");
       }
       return View("habitacion" + Escape.GetEstadoJuego());
@@ -41,8 +41,8 @@ public class HomeController : Controller
 
     public IActionResult Creditos()
     {
-        ViewBag.texto1 = "Desarrollador del proyecto";
-        ViewBag.texto2 = "Ideador y desarrollador del proyecto";
+        ViewBag.textoDavid = "Desarrollador del proyecto";
+        ViewBag.textoIan = "Ideador y desarrollador del proyecto";
         return View("creditos");
     }
 

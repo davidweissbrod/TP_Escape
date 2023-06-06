@@ -8,23 +8,23 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\47436755\\.nuget\\packages\\": {},
+    "C:\\Users\\47392150\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\programacion\\TP_Escape\\TP_Escape.csproj",
+      "projectUniqueName": "Z:\\TP_Escape\\TP_Escape.csproj",
       "projectName": "TP_Escape",
-      "projectPath": "Z:\\programacion\\TP_Escape\\TP_Escape.csproj",
-      "packagesPath": "C:\\Users\\47436755\\.nuget\\packages\\",
-      "outputPath": "Z:\\programacion\\TP_Escape\\obj\\",
+      "projectPath": "Z:\\TP_Escape\\TP_Escape.csproj",
+      "packagesPath": "C:\\Users\\47392150\\.nuget\\packages\\",
+      "outputPath": "Z:\\TP_Escape\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\47436755\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\47392150\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
